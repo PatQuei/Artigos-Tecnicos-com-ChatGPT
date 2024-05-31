@@ -7,13 +7,17 @@ Este projeto demonstra como criar artigos utilizando ferramentas de Inteligênci
 ## Tecnologias Utilizadas
 
 - **ChatGPT**: Utilizado para a criação do conteúdo textual do artigo.
-- **Lexica.art**: Utilizado para a geração de imagens relacionadas ao tema.
+- **Lexica.art**: Utilizado para imagens relacionadas ao tema.
 - **Microsoft PowerPoint**: Utilizado para a criação de banners visuais.
+- **Remove BG**: Utilizado para remoção de fundo original de imagens.
+- **Dall-e**: Utilizado para geração de uma das imagens de banner.
 
 ### Links para as Ferramentas
 - [ChatGPT](https://openai.com/chatgpt)
 - [Lexica.art](https://lexica.art)
 - [Microsoft PowerPoint](https://www.microsoft.com/microsoft-365/powerpoint)
+- [Remove BG](https://www.remove.bg/pt-br/upload)
+- [Dall-e](https://www.dall-efree.com/user/image-generator)
 
 ## Estrutura do Artigo
 
